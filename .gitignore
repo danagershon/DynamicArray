@@ -1,0 +1,8 @@
+.idea/
+CMakeLists.txt
+Google_tests/CMakeLists.txt
+Google_tests/Test.cpp
+Google_tests/Test.h
+Google_tests/lib/
+cmake-build-debug/
+main.cpp
